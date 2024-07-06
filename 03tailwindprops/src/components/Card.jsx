@@ -15,7 +15,7 @@ export default function Card(props) {
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi,
         debitis?
       </p>
-      <button class="mt-2 inline-flex cursor-pointer items-center text-sm font-semibold text-black">
+      <button class="mt-2 inline-flex cursor-pointer items-center text-sm font-semibold text-blue">
         View Profile →
       </button>
     </div>
